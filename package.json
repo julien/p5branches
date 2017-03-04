@@ -2,7 +2,7 @@
   "name": "p5branches",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "privaye": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
